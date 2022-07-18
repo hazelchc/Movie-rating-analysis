@@ -5,8 +5,8 @@ The code is written in Python 3.9.7 and all of its dependencies can be installed
 pip install -r requirements.txt
 ```
 
-### Introduction to the research
-In this project, I would like to test whether an increase in status affects the evaluation of quality following the announcement of the award. I am using the difference-in-difference (DD) approach to compare changes in movie ratings over time between movies that won the award and the control movies that were nominated for the same award.
+### Project Abstract
+I would like to test whether an increase in status affects the evaluation of quality following the announcement of the award. In this project, I would like to know whether the perceived quality of an Oscar-winning movie changes after the announcement of the award. Leveraging the rich resources on IMDB, I collected all reviews three months before and after the Oscars Award announcement of both winning and nominated-only movies from 2008 to 2019. The results from difference-in-differences analyses show that although both nominated-only and award-winning films have lower ratings after the award announcement, the ratings of award-winning movies experience a sharper decrease.
 
 ### Details to replicate the findings:
 1. Data collection 
