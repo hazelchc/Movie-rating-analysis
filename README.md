@@ -1,4 +1,4 @@
-# Project Demo: An Honor or a Curse? Effect of Winning Awards on the Evaluation of Movies’ Quality
+# An Honor or a Curse? Effect of Winning Awards on the Evaluation of Movies’ Quality
 
 ### Project Abstract
 I would like to test whether an increase in status affects the evaluation of quality following the announcement of the award. In this project, I would like to know whether the perceived quality of an Oscar-winning movie changes after the announcement of the award. Leveraging the rich resources on IMDB, I collected all reviews three months before and after the Oscars Award announcement of both winning and nominated-only movies from 2008 to 2019. The results from difference-in-differences analyses show that although both nominated-only and award-winning films have lower ratings after the award announcement, the ratings of award-winning movies experience a sharper decrease.
